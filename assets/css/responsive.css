@@ -17,4 +17,11 @@
 		transform: scale(1) !important;
 		padding-bottom: 10px;
 	}
+	.blog-pg h2{
+		padding-top: 20px;
+		padding-right: 0;
+	}
+	.blog-pg p{
+		padding-right: 0
+	}
 }
